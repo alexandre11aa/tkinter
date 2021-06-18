@@ -2,7 +2,7 @@
 
 @ Algorítmos com layout programado em python pela biblioteca do tkinter.
 
-@ OBS: Cada commit será um programa diferente.
+@ OBS: Cada documento é um programa diferente.
 
 - Auto-Click (auto-click.py): 
 
