@@ -549,6 +549,8 @@ class programa(funcoes):
         cdc.altura_e.place(relx=0.895, rely=0.65, relwidth=0.08, relheight=0.08)
 
     def aba2_f(cdc):
+        # - ABA 2 -
+        
         # Informações
         cdc.id_d1 = Label(cdc.aba2, text='ID', bg='#dfe3ee', fg='#800000')
         cdc.id_d1.place(relx=0.0245, rely=0.05, relwidth=0.012, relheight=0.08)
@@ -663,7 +665,7 @@ class programa(funcoes):
 
         cdc.lista_c.place(relx=0.01, rely=0.1, relwidth=0.95, relheight=0.85)
 
-        # Barra de Scoll
+        # Barra de Scroll
         cdc.lista_c_scroll = Scrollbar(cdc.frame2, orient='vertical')
         cdc.lista_c.configure(yscroll=cdc.lista_c_scroll.set)
         cdc.lista_c_scroll.place(relx=0.96, rely=0.1, relwidth=0.03, relheight=0.85)
