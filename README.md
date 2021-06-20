@@ -18,7 +18,7 @@ Uma calculadora com algumas funções de uma calculadora científica, com intera
 
 - Conversor Decimal (conversor_decimal.py):
 
-Um conversor que transforma de decimal para binário, octal e hexadecimal, e de binário, octal e hexadecimal para binário.
+Um conversor que transforma de decimal para binário, octal e hexadecimal, e de binário, octal e hexadecimal para decimal.
 
 - Gerador de Gráfico da Curva de Gauss (plot_curva_de_gauss.py):
 
