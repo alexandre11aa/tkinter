@@ -154,7 +154,7 @@ class funcoes():
         assinatura = document.add_paragraph()
         assinatura.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
         assinatura = assinatura.add_run(
-            '\n____________________________________________\nJPS CONST. INCORP. E LOTEAMENTOS IMOBILIÁRIOS LTDA\nCNPJ: 38.484.970/0001-82')
+            '\n____________________________________________\nALEXANDRE ESTRELA DE L. NÓBREGA\nCNPJ: 00.000.000/0000-00')
         fonte_do_assinatura = assinatura.font
         fonte_do_assinatura.name = 'Calibri'
         fonte_do_assinatura.size = Pt(14)
