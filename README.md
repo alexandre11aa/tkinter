@@ -20,6 +20,10 @@ Uma calculadora com algumas funções de uma calculadora científica, com intera
 
 Um conversor que transforma de decimal para binário, octal e hexadecimal, e de binário, octal e hexadecimal para decimal.
 
+- Gerador de Recibo em .docx (gerador_de_recibo_em_docx.py):
+
+Um gerador que coleta as informações do usuário e gera um recibo em .docx pronto para impressão.
+
 - Gerador de Gráfico da Curva de Gauss (plot_curva_de_gauss.py):
 
 Um gerador de gráficos da Curva de Gauss interativo.
