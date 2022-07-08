@@ -4,7 +4,6 @@ import tkinter as tk
 
 from tkinter import *
 from tkinter import ttk
-from tkinter import tix
 
 import docx
 from docx import Document
@@ -12,7 +11,7 @@ from docx.shared import Pt
 from docx.shared import Inches
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
-root = tix.Tk()
+root = Tk()
 
 class funcoes():
 
