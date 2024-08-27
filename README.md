@@ -22,6 +22,12 @@ Um programa que usa um banco de dados para cadastrar clientes de academias.
 
 Uma calculadora com algumas funções de uma calculadora científica, com interação do usuário tanto pelas teclas da própria, como pela digitação do teclado.
 
+### Calculadora de Estradas
+
+*codigo.py*
+
+Uma calculadora de alguma das variáveis mais importantes para o dimensionamento de estradas.
+
 ### Conversor Decimal 
 
 *conversor_decimal.py*
@@ -39,9 +45,3 @@ Um gerador que coleta as informações do usuário e gera um recibo em .docx pro
 *plot_curva_de_gauss.py*
 
 Um gerador de gráficos da Curva de Gauss interativo.
-
-### Calculadora para Dimensionamento de Estradas
-
-*codigo.py*
-
-Uma calculadora de alguma das variáveis mais importantes para o dimensionamento de estradas.
