@@ -26,7 +26,7 @@ Uma calculadora com algumas funções de uma calculadora científica, com intera
 
 *codigo.py*
 
-Uma calculadora de alguma das variáveis mais importantes para o dimensionamento de estradas.
+Uma calculadora de alguma das variáveis mais importantes para o dimensionamento de estradas. Utilize o software de acordo com as especificidades de seu [registro](https://busca.inpi.gov.br/pePI/servlet/ProgramaServletController?Action=detail&CodPedido=45616&SearchParameter=).
 
 ### Conversor Decimal 
 
